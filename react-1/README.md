@@ -1,3 +1,7 @@
+Question: fetch an API. show the data in list. on Button click it should be arranged A-Z alphabetically. On Button click again it should be arranged Z-A alphabetically.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
