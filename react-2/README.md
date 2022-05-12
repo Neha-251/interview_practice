@@ -1,3 +1,6 @@
+Question: Create a form with radio button, checkbox and date. Show the input values in a table.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
